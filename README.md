@@ -82,7 +82,7 @@ Open the local server URL in your browser.
 
 ## 📸 Example
 
-(Add your project screenshot here)
+<img width="792" height="763" alt="image" src="https://github.com/user-attachments/assets/6927808f-8fcc-48ef-8cd6-86d7eaf5c56c" />
 
 ---
 
